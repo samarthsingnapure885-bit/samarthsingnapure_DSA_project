@@ -1,0 +1,3 @@
+# BusID|Route|Fare|TotalSeats
+B101|Raipur-Bhopal|700|2
+B102|Raipur-Nagpur|450|2
